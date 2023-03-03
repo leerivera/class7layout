@@ -13,5 +13,9 @@ h1 {
     background-color: #ffa500;
 }		
 /* Please give the section a thick blue border, height of 300px, and more the 400px of margin on the top */
-			
+section {
+    border: 10px solid #0000ff;
+    height: 300px;
+    margin-top: 400px;
+}			
 /* Please make the spans have thin yellow borders and equal padding / margin on all sides */
