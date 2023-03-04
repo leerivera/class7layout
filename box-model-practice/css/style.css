@@ -19,3 +19,8 @@ section {
     margin-top: 400px;
 }			
 /* Please make the spans have thin yellow borders and equal padding / margin on all sides */
+span {
+    border: 2px solid #ffff00;
+    padding: 10px;
+    margin: 10px;
+}
